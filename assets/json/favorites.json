@@ -1,0 +1,29 @@
+{
+    "favorites": [
+      {
+        "url": "https://debank.com/",
+        "title": "DeBank",
+        "img": ""
+      },
+      {
+        "url": "https://bloomberg.com/",
+        "title": "Bloomberg",
+        "img": ""
+      },
+      {
+        "url": "https://github.com/",
+        "title": "GitHub",
+        "img": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"
+      },
+      {
+        "url": "https://mail.proton.me/u/0/inbox",
+        "title": "Proton",
+        "img": ""
+      },
+      {
+        "url": "https://velodata.app/",
+        "title": "VeloData",
+        "img": "https://pbs.twimg.com/profile_images/1737911270785835008/TiZQlMqK_400x400.jpg"
+      }
+    ]
+  }
