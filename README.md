@@ -19,7 +19,7 @@ To install this extension first you'll need to download the download the repo as
 
 After that you can load unziped extension by going to [`chrome://extensions/`](chrome://extensions/) and `load unpacked`, make sure to have Developer Mode enabled .
 
-Or you can clone the repo and load it manually by going to [`chrome://extensions/`](chrome://extensions/), and load unpacked`, again make sure to have Developer Mode enabled.
+Or you can clone the repo and load it manually by going to [`chrome://extensions/`](chrome://extensions/), and `load unpacked`, again make sure to have Developer Mode enabled.
 
 ## Making your custom favorites list
 
