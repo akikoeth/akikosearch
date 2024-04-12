@@ -13,6 +13,14 @@ But for if some day I make this public here it's, enjoy! This is simply a modifi
 <img src="./assets/screenshots/screenshot2.png" style="height: 240px"><img src="./assets/screenshots/screenshot1.png" style="height: 240px"></div>
 </div>
 
+## Installation
+
+To install this extension first you'll need to download the download the repo as a zip and then you'll need to go to [`chrome://extensions/`](chrome://extensions/), enable Developer Mode by clicking the toggle switch in the top right corner, and then unzip the extension in a Folder.
+
+After that you can load unziped extension by going to [`chrome://extensions/`](chrome://extensions/) and `load unpacked`, make sure to have Developer Mode enabled .
+
+Or you can clone the repo and load it manually by going to [`chrome://extensions/`](chrome://extensions/), and load unpacked`, again make sure to have Developer Mode enabled.
+
 ## Making your custom favorites list
 
 To make your own favorites list is as easy as making a json file named [`favorites.json`](./assets/json/favorites.json) with the following structure:

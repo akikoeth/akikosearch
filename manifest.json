@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "AkikoSearch",
-  "version": "1.12",
+  "version": "1.0.0",
   "description": "Always go to the right domains and avoid scam pages - Customized for myself",
   "background": {
     "service_worker": "src/pages/background/index.js",
